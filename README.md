@@ -2,7 +2,7 @@
 
 A recent _New York Times_ article discusses how artificial intelligence has advanced to the point of winning at poker!
 
-![Poker Robot](Users/lillian/Desktop/IMT511/LanguageDetectorProgram-IMT511/pokerRobot.png)
+<img width="363" alt="pokerRobot" src="https://user-images.githubusercontent.com/49926295/61086796-ac4d5480-a3e8-11e9-8552-8f006f14092e.png">
 
 Main takeways:
 
